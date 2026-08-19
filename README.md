@@ -3,7 +3,7 @@
 I'm a Cybersecurity Engineering Student with a strong foundation in algorithmic problem-solving and an expert focus on comprehensive **Blue Team Operations** and **Digital Forensics**. I am passionate about deep-dive analysis, proactive defense, and securing critical infrastructure across diverse environments.
 
 #### 🛡️ Specialized Blue Team Expertise
-I bring hands-on experience and in-depth knowledge in the following areas (Categories from `image_0.png`):
+I bring hands-on experience and in-depth knowledge in the following areas:
 * **Malware Analysis:** Dissecting malicious samples for reverse engineering and behavior tracking.
 * **Threat Intelligence:** Collecting, analyzing, and operationalizing intelligence to anticipate and mitigate attacks.
 * **Network Forensics:** Investigating network protocols and full packet captures for anomalies and intrusions.
